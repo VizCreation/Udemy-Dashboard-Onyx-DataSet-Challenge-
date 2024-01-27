@@ -3,7 +3,7 @@ This is a Dataset challenge held by OnyxData In Jan 2024.  The aim of the challe
 
 
 ## Problem Statement
-1 In the process of editing...
+In the process of editing...
 
 ## Data Sourcing
 The data set is given by Onyx Data for the Data Challenge.
