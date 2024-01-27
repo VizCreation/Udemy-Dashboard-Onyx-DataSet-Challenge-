@@ -30,7 +30,7 @@ This Dashboard was created for the Challenge Project. The second pic shows that 
 ![Dashboard](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/3c38491c-70ad-422d-9e51-ae32b9cec1ec)
 
 
-![Tooltip]([https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/3c38491c-70ad-422d-9e51-ae32b9cec1ec](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/f1947fb6-a9f9-465d-958b-116fff2a6428))
+![Tooltip](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/f1947fb6-a9f9-465d-958b-116fff2a6428))
 
 
 ## Findings/Conclusion
