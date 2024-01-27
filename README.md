@@ -27,7 +27,7 @@ Data was cleaned and transformed with the Power Query Editor in Power BI and by 
 
 This Dashboard was created for the Challenge Project.
 
-![Dashboard (practise)](https://github.com/VizCreation/Supermarket-Sales-Dashboard/assets/157504708/0b9c1bee-4101-4dc6-9b97-21fa5b56f582)
+![Dashboard](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/3c38491c-70ad-422d-9e51-ae32b9cec1ec)
 
 
 
