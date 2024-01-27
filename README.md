@@ -32,7 +32,7 @@ This Dashboard was created for the Challenge Project. The second pic shows that 
 
 ![Tooltip](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/f1947fb6-a9f9-465d-958b-116fff2a6428)
 
-![Paid Enrolment Selection](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/2ca7be5b-2cc7-4570-bfc4-e601cfc6461b)
+![Paid Enrollment Selection](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/2ca7be5b-2cc7-4570-bfc4-e601cfc6461b)
 
 ## Findings/Conclusion
 1. The Total Sales and Profit in both years are $410k and $69k
