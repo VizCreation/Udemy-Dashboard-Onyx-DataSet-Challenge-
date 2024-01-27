@@ -3,13 +3,7 @@ This is a Dataset challenge held by OnyxData In Jan 2024.  The aim of the challe
 
 
 ## Problem Statement
-1. What is the Total Sales and Profit by Year and Month?
-2. Is the Total Sales increasing or decreasing compared Year-on-Year? 
-3. What are the propertions of sales for the various Sales Channel?
-4. Are most of the products bought in-store via Cash payment or online payment?
-5. What is the top selling and bottom selling product? And how much sales do they bring in?
-6. What is the Ranking of Products based on Sales
-7. What is the most popular Product Category?
+1 In the process of editing...
 
 ## Data Sourcing
 The data set is given by Onyx Data for the Data Challenge.
@@ -35,10 +29,4 @@ This Dashboard was created for the Challenge Project. The second pic shows that 
 ![Paid Enrollment Selection](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/2ca7be5b-2cc7-4570-bfc4-e601cfc6461b)
 
 ## Findings/Conclusion
-1. The Total Sales and Profit in both years are $410k and $69k
-2. The YoY profit is 127%, meaning that the Sales performance is better in 2022 compared to 2021.
-3. The first Donut Chart shows that the highest Sales comes in the order of Direct Sales, Online and Wholesaler.
-4. The second Donut Chart shows that Sales come almost equally from in-store purchase and online purchase.
-5. Based on accumulated Sales in both years, the Top Selling Product is 'Product 41' and the Bottom Selling Product is 'Product 09'.
-6. The Horizontal Clustested Bar Chart shows the ranking of Products by Sales (The top products are Product 41, 31, 42...)
-7. The Pie Chart shows that the most popular product category is 'Category 04'.
+In the process of editing...
