@@ -18,6 +18,7 @@ Data was cleaned and transformed with the Power Query Editor in Power BI and by 
 * Renaming Column headers to a more suitable and readable header (eg. 'is_paid' is renamed to 'Enrollment Type' to indicate if the course is Free or Paid.)
 * Extracting Date from DateTime column as the course first published time is not crucial in this visualisation
 * Creating new columns to classify the 'Course Fee' and 'Course Duration' in a Range for easy visualisation and interpretation of data (eg. Course Fee has been reclassified under the range (Free, <=50, 51-100, 101-150, 151-200, >200)
+* Creating a new SortOrder table in Power Query to sort the 'Course Fee (Range)' in the correct order by value 
 
 ## Data Visualisation
 
