@@ -40,4 +40,4 @@ This Dashboard was created for the Challenge Project. <br>
    * Also, majority of subscribers (71%)  are interested in Web development courses, hence Udemy may consider including more such courses or add on intermediate or higher level web development courses. 
    * Lastly, based on the bottom middle bar chart, 61% of the total sales come from the courses that charge between $151-$200. It shows that people are willing to pay for the courses as long as the content is of their interest and beneficial to them. <br>
 
-3. Based on the course ranking by sales, Web Development and Musical lesson on Piano are one of the more sellable courses.
+3. Based on the 'Course Ranking by Sales' bar chart (bottom rightmost chart), Web Development and Musical lesson on Piano are one of the more sellable courses.
