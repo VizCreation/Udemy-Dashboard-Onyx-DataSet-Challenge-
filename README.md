@@ -1,12 +1,11 @@
 # Udemy-Dashboard-Onyx-DataSet-Challenge-
-In the process of editing...
-/This is a Dataset challenge held by OnyxData In Jan 2024.  The aim of the challenge is to showcase the best visualisation dashboard that will help the business leverage the data and drive growth. The dataset consist of details on Udemy course.
+This is a Dataset challenge held by OnyxData In Jan 2024.  The aim of the challenge is to showcase the best visualisation dashboard that will help the business leverage the data and drive growth. The dataset consist of details on Udemy course.
 
 
 ## Problem Statement
 1. Is the Udemy business model sustainable? Are people willing to pay for the courses?
 2. How to boost Udemy's profit from selling courses? What are some ways to expand the business?
-3. Which category of courses is most sellable?
+3. Which courses are most sellable?
 
 ## Data Sourcing
 The data set is given by Onyx Data for the Data Challenge.
@@ -32,6 +31,6 @@ This Dashboard was created for the Challenge Project. The second pic shows that 
 ![Paid Enrollment Selection](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/0f10779e-091e-4f01-bcf5-d548b84d1db7)
 
 ## Findings/Conclusion
-1. Most subscribers (69%) are willing to pay for the courses, compared to 31% who are taking only the free courses. Hence, it seems that this business model is sustainable as there are more people paying than taking free courses.
-2. From the Dashboard, 36% of all paid subscribers are willing to pay for courses that are less than $50. Udemy may consider providing more courses within this range and expand the category to include others such as language, personal improvement etc.
-3. Web development is the most sellable course with 
+1. Most subscribers (69%) are willing to pay for the courses, compared to 31% who are taking only the free courses. Hence, it seems that this business model is sustainable as there are moajority of people paying than taking free courses and the earnings are sufficient to cover the course of running the site.
+2. Currently there are only 4 categories of courses (Web Development, Graphic Design, Business Finance and Musical Instrument), Udemy may consider expanding the categories to include others such as language, personal improvement, grooming etc. Also, majority of subscribers (71%)  are interested in Web development courses, hence Udemy may consider including more such courses or add on intermediate or higher level web development courses. Also, based on the bottom middle bar chart, 61% of the total sales come from the courses that charge between $151-$200. It shows that people are willing to pay for the courses as long as the content is of their interest and beneficial to them.
+3. Based on the course ranking by sales, Web Development and Musical lesson on Piano are one of the more sellable courses.
