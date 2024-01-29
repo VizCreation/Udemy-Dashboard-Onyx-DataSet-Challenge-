@@ -34,8 +34,8 @@ This Dashboard was created for the Challenge Project. <br>
 ![Paid Enrollment Selection](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/0f10779e-091e-4f01-bcf5-d548b84d1db7)
 
 ## Findings/Conclusion
-1. Most subscribers (69%) are willing to pay for the courses, compared to 31% who are taking only the free courses. Hence, it seems that this business model is sustainable as there are moajority of people paying than taking free courses and the earnings are sufficient to cover the course of running the site.
+1. Most subscribers (69%) are willing to pay for the courses, compared to 31% who are taking only the free courses. Hence, it seems that this business model is sustainable as there are moajority of people paying than taking free courses and the earnings are sufficient to cover the course of running the site. <br>
 2. Currently there are only 4 categories of courses (Web Development, Graphic Design, Business Finance and Musical Instrument), Udemy may consider expanding the categories to include others such as language, personal improvement, grooming etc. <br>
    <br> Also, majority of subscribers (71%)  are interested in Web development courses, hence Udemy may consider including more such courses or add on intermediate or higher level web development courses. <br>
-   <br> Lastly, based on the bottom middle bar chart, 61% of the total sales come from the courses that charge between $151-$200. It shows that people are willing to pay for the courses as long as the content is of their interest and beneficial to them.
-4. Based on the course ranking by sales, Web Development and Musical lesson on Piano are one of the more sellable courses.
+   <br> Lastly, based on the bottom middle bar chart, 61% of the total sales come from the courses that charge between $151-$200. It shows that people are willing to pay for the courses as long as the content is of their interest and beneficial to them. <br>
+3. Based on the course ranking by sales, Web Development and Musical lesson on Piano are one of the more sellable courses.
