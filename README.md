@@ -24,12 +24,12 @@ Data was cleaned and transformed with the Power Query Editor in Power BI and by 
 
 This Dashboard was created for the Challenge Project. The second pic shows that when a user mouse over the visualisation, in this case the bar chart at the bottom-most righthand side, a tooltip will appear showing more details of the course including 'No. of subcribers, Course first published date, Course Fee, Course Duration and URL for the course'.
 
-![Dashboard]([https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/3c38491c-70ad-422d-9e51-ae32b9cec1ec](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/97342dcc-ba3d-43c6-b588-6a4b92ab06d1))
+![Dashboard](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/97342dcc-ba3d-43c6-b588-6a4b92ab06d1)
 
 
-![Tooltip]([https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/f1947fb6-a9f9-465d-958b-116fff2a6428](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/f4f58396-ebcc-4d3f-8fc2-2fa5ef324148))
+![Tooltip](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/f4f58396-ebcc-4d3f-8fc2-2fa5ef324148)
 
-![Paid Enrollment Selection]([https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/2ca7be5b-2cc7-4570-bfc4-e601cfc6461b](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/0f10779e-091e-4f01-bcf5-d548b84d1db7))
+![Paid Enrollment Selection](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/0f10779e-091e-4f01-bcf5-d548b84d1db7)
 
 ## Findings/Conclusion
 1. Most subscribers (69%) are willing to pay for the courses, compared to 31% who are taking only the free courses. Hence, it seems that this business model is sustainable as there are more people paying than taking free courses.
