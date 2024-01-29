@@ -23,7 +23,7 @@ Data was cleaned and transformed with the Power Query Editor in Power BI and by 
 
 ## Data Visualisation
 
-This Dashboard was created for the Challenge Project. The second pic shows that when a user mouse over the visualisation, in this case the bar chart at the bottom-most righthand side, a tooltip will appear showing more details of the course including 'No. of subcribers, Course first published date, Course Fee, Course Duration and URL for the course'.
+This Dashboard was created for the Challenge Project. Users can use the 3 silcers at the top (in red) to choose their desired view for 'Cateogry, Year of Publish' and 'Enrollment Type'. The third picture is a tooltip that will appear showing more details of the course whenever a user mouse over the bar chart. Such details include the 'No. of subcribers, Course first published date, Course Fee, Course Duration and URL for the course'.
 
 ![Dashboard](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/97342dcc-ba3d-43c6-b588-6a4b92ab06d1)
 
