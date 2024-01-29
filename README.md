@@ -29,7 +29,7 @@ This Dashboard was created for the Challenge Project. <br>
 ![Dashboard](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/97342dcc-ba3d-43c6-b588-6a4b92ab06d1)
 
 
-![Tooltip](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/f4f58396-ebcc-4d3f-8fc2-2fa5ef324148)
+![Tooltip](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/577da39f-617d-4f36-a8ba-772b1a806c88)
 
 ![Paid Enrollment Selection](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/0f10779e-091e-4f01-bcf5-d548b84d1db7)
 
