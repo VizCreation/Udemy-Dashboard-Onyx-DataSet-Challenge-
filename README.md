@@ -32,7 +32,7 @@ This Dashboard was created for the Challenge Project. <br>
 **Slicer Selection on Dashboard**
 ![Paid Enrollment Selection](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/577da39f-617d-4f36-a8ba-772b1a806c88)
 
-**Tooltip Details**
+**Tooltip Details**<br>
 ![ToolTip](https://github.com/VizCreation/Udemy-Dashboard-Onyx-DataSet-Challenge-/assets/157504708/0f10779e-091e-4f01-bcf5-d548b84d1db7)
 
 ## Findings/Conclusion
